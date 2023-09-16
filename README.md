@@ -109,7 +109,7 @@ b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 102
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/4cf594aa-49d4-4143-a832-ab194b3c43c4)
 
 ***
-##### 3. Tranpose of A to find nth Power using OMM.
+### 3. Tranpose of A to find nth Power using OMM.
 - Initialization of Matrix A :
 
 We start by initializing matrices A with random values. This step ensures that our matrices have valid data for multiplication.
@@ -167,7 +167,7 @@ b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 102
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/c533ea10-59a0-4b21-9237-203623361cb6)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/f31b602d-db4a-41ae-a116-6b2e8292775b)
 
-##### 4. Tranpose of A to find nth Power using BMM.
+### 4. Tranpose of A to find nth Power using BMM.
 
 We start by initializing matrices A with random values. This step ensures that our matrices have valid data for multiplication.
 - Transpose of A
