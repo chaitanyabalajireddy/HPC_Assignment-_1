@@ -22,7 +22,8 @@ a. Runtime vs. Threads by fixing the Matrix Size. (Threads varies as 1,2,4,6,8,1
 
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ebec57f2-099c-4403-b543-4156dac43fce)
 
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/18def2d7-1ccd-43d2-9986-6d74496f8be9)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/4ef9b012-5307-4ae2-8d72-566f74b6d0f9)
+
 
 b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 1024, 2048)
  
@@ -151,6 +152,20 @@ a. Runtime vs. Threads by fixing the Matrix Size. (Threads varies as 1,2,4,6,8,1
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/e3823f34-4e81-4e61-8c4d-a5c7fadf7ed0)
 
 
+b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 1024, 2048)
+- in this we kept thread number as constant in each case and changed the matix sizes
+
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/7626a7c6-9950-4684-83b6-8fff1a626b41)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/cda27830-dc3f-4051-86c0-17a9cb8c4f9c)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/1e35f485-4da2-4f1b-b486-78df0594ff65)
+
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/fa281152-3b33-4db3-ba48-531909c31642)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/7c8a749a-6ada-4339-ba80-a8c59fc96df5)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ce2d5909-e6ee-49bf-8d81-ab71a2fd120b)
+
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/58a67d9d-f938-4ad1-8b77-1b69ba65187b)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/c533ea10-59a0-4b21-9237-203623361cb6)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/f31b602d-db4a-41ae-a116-6b2e8292775b)
 
 ##### 4. Tranpose of A to find nth Power using BMM.
 
@@ -192,6 +207,7 @@ EXPONENT - 2 & MATRIX SIZE - 2028
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/550ae726-76c8-4c7d-8e68-713e4cd4be42)
 
 EXPONENT - 2 & MATRIX SIZE - 1024
+
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/66590d0b-a253-4338-bd98-fd21c37aa880)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/052bb4cb-32a5-493b-b518-88920575ba16)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/34a60a66-c058-40c6-9203-0dfe1b5b7352)
@@ -199,6 +215,7 @@ EXPONENT - 2 & MATRIX SIZE - 1024
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/40730e48-d964-4820-bd77-21fb1fd4745d)
 
 EXPONENT - 2 & MATRIX SIZE - 512
+
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/0cd732fd-2093-41af-bb3a-e1f7b0c4adbe)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/85ec8e29-2218-48f0-a0fb-b6fb3d7a3be2)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/d9dd5153-6cff-457f-b86a-37c8086943c7)
@@ -206,12 +223,14 @@ EXPONENT - 2 & MATRIX SIZE - 512
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/662934b4-be01-4eb2-ac26-58fcabf505b7)
 
 EXPONENT - 8 & MATRIX SIZE - 512
+
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/341ea1f7-43d0-4eda-9e64-11d7a47fa4ea)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/c2152df6-b9d3-4769-ac32-4182d8f9bf51)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ceb805e3-efbb-4eff-82c5-6b6b32fd549a)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ea84b3c3-3a28-4bbb-8e4f-1d6016c778d4)
 
 EXPONENT - 8 & MATRIX SIZE - 1024
+
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/87b792a1-1760-4a2a-9e8f-c93744717013)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/5e9e1a2e-0a2f-4ea2-9f99-e4f0ed834105)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/0b7865ac-7c39-43cb-b5c3-46acf1508e8f)
@@ -219,6 +238,7 @@ EXPONENT - 8 & MATRIX SIZE - 1024
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/7c1873d4-e09f-488e-a06c-e51f9641ff9a)
 
 EXPONENT - 8 & MATRIX SIZE - 2048
+
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/6840c506-ce62-4310-a5e4-7aee0ab1f548)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/8cf20c33-02e5-43f7-8f21-81bdf35c1814)
 ![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/c835c586-be55-4283-9f5b-c4413ba63e99)
@@ -228,10 +248,24 @@ EXPONENT - 8 & MATRIX SIZE - 2048
 b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 1024, 2048)
 - in this we kept thread number as constant in each case and changed the matix sizes
 - Block size varies between 4,16,32
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/47bd9cbe-5024-4da0-8ed3-6e6990de2bf8)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ac9471b9-3bae-4889-bb5d-2afad02a8ab7)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/faf2e964-963d-4776-b67f-d503e4369b42)
+  
+Threads constant as 2
+
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/a969806d-7d71-481b-a837-b8c51ab84163)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/ef154154-83bf-4af3-96a9-7a3741243622)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/68174da5-a76f-4e63-9f44-a67ad78c6bdf)
+
 
 Threads constant as 8 
+
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/b0ef43d6-dee8-4453-844e-e7fe709b2054)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/632ff709-45d2-4997-b29e-4d29ea6419cf)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/a0cb81fd-e3ea-4713-93e7-00c708e54f41)
+
+Threads constant as 16
+
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/86beb2e1-eec4-4caf-bf9b-11b593c02f08)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/15b2a184-8171-4baa-b189-72a7e3a4740f)
+![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/53de4e67-0709-4643-8c2d-b3712d9c265b)
 
 
